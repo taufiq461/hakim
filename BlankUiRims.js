@@ -3,7 +3,7 @@ Function Crashui Create By @GyzenVtx Khusus Patner
 Rules :
 • No Share Function Ke Own/Tk/PT Lu
 • No Sebar Function Secara Free
-Melanggar? Gw Bl + Kick Lu Bangsat
+Melanggar? Gw Bl + Kick Lu Bangsat 
 */
 
 async function rimscrashui(target) {
